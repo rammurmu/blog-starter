@@ -1,6 +1,6 @@
 ---
-title: 'Preview Mode for Static Generation'
-excerpt: 'Lorem ipsum dolor sit'
+title: 'Inroducing the next generation and future of live commerce '
+excerpt: 'Hello and welcome to runash live'
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2022-08-20T05:15:07.322Z'
 author:
